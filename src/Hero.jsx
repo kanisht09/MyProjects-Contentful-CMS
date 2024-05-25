@@ -4,12 +4,12 @@ const Hero = () => {
     <section className="hero">
       <div className="hero-center">
         <div className="hero-title">
-          <h1>Contentful CMS</h1>
+          <h1>My Projects</h1>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum ullam
-            labore ut molestiae fugiat officia, perferendis, dicta optio
-            laudantium officiis voluptate repellendus! Vel illum cumque cum odit
-            quas, debitis animi.
+            Hello Visitor 🙏, view all my work below. Below are the projects
+            which I have worked on. Some are self made and others are the ones
+            which I have made during my learning phase. Hope you will like my
+            work 😄.
           </p>
         </div>
         <div className="img-container">
